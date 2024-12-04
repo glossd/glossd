@@ -9,4 +9,5 @@ I used to love Java, but the only thing I miss from it is Spring Data. Go feels 
 5. Go is closer to C than Java, allowing you to write low-level tools.
 7. Built-in packaging (Go doesn't need to build packages!), built-in concurrency (look into channels), built-in testing and so many right decisions (modular folders, first-class functions, implicit interfaces and so on and so on)
 
-My StackOverflow: [dennis-gloss](https://stackoverflow.com/users/10160865/dennis-gloss)
+My StackOverflow: [dennis-gloss](https://stackoverflow.com/users/10160865/dennis-gloss)  
+My poker: [PokerGloss.com](https://PokerGloss.com) ([code source](https://github.com/glossd/pokergloss))
