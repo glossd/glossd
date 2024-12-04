@@ -1,5 +1,5 @@
 ### Hi 👋
-I'm a Golang developer.  
+I'm a Golang developer who migrated from Java.
 I used to love Java, but the only thing I miss from it is Spring Data. Go feels amazing and I've been happy writing Go code since 2020.  
 #### Key Go advantages over Java:
 1. The compilation is blazingly fast. I don't have to waste time waiting for tests to start.
